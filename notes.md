@@ -14,4 +14,4 @@ If you have a sanity view (S.view).component on deskStructure, this is where we 
 
 1. Verify all the projectId and dataset used here.
 
-https://www.gatsbyjs.com/docs/sanity/getting-started/
+https://www.gatsbyjs.com/docs/sanity/getting-started/sssssss
